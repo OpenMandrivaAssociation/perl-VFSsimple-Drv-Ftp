@@ -1,7 +1,7 @@
 %define module	VFSsimple-Drv-Ftp
 %define name	perl-%{module}
 %define version	0.03
-%define release	%mkrel 4
+%define release	%mkrel 5
 
 Summary:	A VFSsimple implementation over ftp protocol
 Name:		%{name}
